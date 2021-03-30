@@ -6,9 +6,9 @@ This tool has been created to generate malicious traffic culminating from a rand
 worm. The malcious traffic created is in netflow format (.txt). The malcious traffic that we 
 have modelled here are as follows:
 
-1. DDoS attack.
-2. Vertical Scan attack
-3. Random Scan attack.
+1. DDoS attack;
+2. Vertical Scan attac;
+3. Random Scan attack; and
 4. Horizontal Scan attack.
 
 ---
@@ -19,7 +19,7 @@ have modelled here are as follows:
 3. pprint 0.1
 4. DateTime 4.3
 5. numpy 1.18.5
-6. python-dateutil 2.8.1
+6. python-dateutil 2.8.1.
 
 ---
 
