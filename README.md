@@ -19,7 +19,7 @@ have modelled here are as follows:
 3. pprint 0.1
 4. DateTime 4.3
 5. numpy 1.18.5
-6. python-dateutil 2.8.1.
+6. python-dateutil 2.8.1
 
 ---
 
