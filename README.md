@@ -4,7 +4,7 @@
  
 This tool has been created to generate malicious traffic culminating from a random scanning computer 
 worm. The malcious traffic created is in netflow format (.txt). The malcious traffic that we 
-have modelled here are--
+have modelled here are as follows:
 
 1. DDoS attack.
 2. Vertical Scan attack
