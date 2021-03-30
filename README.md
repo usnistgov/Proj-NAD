@@ -26,7 +26,7 @@ have modelled here are as follows:
 ## Pseudo Code: 
 
 In main, a nested for loop creates different variations of malicious traffic culminating from a 
-propagating computert worm. It does so by calling function Generator, which takes 5 inputs and they 
+propagating computer worm. It does so by calling function Generator, which takes 5 inputs and they 
 are as follows:
 
 1. Population Size (Pop_Size)--population size of the scanning worm;
