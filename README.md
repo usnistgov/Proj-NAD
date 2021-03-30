@@ -7,7 +7,7 @@ worm. The malcious traffic created is in netflow format (.txt). The malcious tra
 have modelled here are as follows:
 
 1. DDoS attack;
-2. Vertical Scan attac;
+2. Vertical Scan attack;
 3. Random Scan attack; and
 4. Horizontal Scan attack.
 
